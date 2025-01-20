@@ -123,6 +123,10 @@ Magus</a></h1>
 <!-- BLOG-POST-LIST:END -->
 
 ---
+jojos
+
+[![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://static.wikia.nocookie.net/d3fb3bfa-be1a-4592-8b30-32f2cf033ab9/scale-to-width/755)]
+
 
 MAGUS:estuvo Aqui :p
 
