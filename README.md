@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hola, Me llamo Gustavo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2024/11/dc-antiheroes-who-need-absolute-series.jpg" align="center" alt="berkeli header image">
+<img src="https://i.pinimg.com/1200x/d3/97/15/d39715c73ead90d5cbc6425c560755c6.jpg" align="center" alt="berkeli header image">
  <h2>Sobre mi 💬 :</h2>
 
 Soy Gustavo, un desarrollador Full Stack de 21 años con una pasión por la programación y la tecnología. Mi enfoque se centra en la creación de soluciones innovadoras y eficientes utilizando tecnologías modernas. Tengo experiencia trabajando con React, Next.js, Nest.js y Node.js, así como en la gestión de bases de datos con MongoDB, MySQL y Prisma ORM.
