@@ -83,15 +83,6 @@ En mi tiempo libre, disfruto de los videojuegos y el anime, lo que me ha inspira
 
 <br/>
 
-<p>
-A Skilled FullStack JavaScript Developer 🚀 from India. Always working on some project or learning something new!
-<br/>
-Stacks I have worked with : MERN , React+Firebase , Meteor+React , Next+React.
-<br/>  
-Things I am currently experimenting with : jest , enzyme , typescript, ...
-<br/>
-Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
-</p>
 
 
   <img align="right" alt="GIF" src="https://64.media.tumblr.com/4ed764059c60ad12691e88770c8ae339/9666b921cad03ddd-5d/s540x810/b81c8cab1ed4ed18a36f1f0a9972f657c0a8c509.gif"/>
